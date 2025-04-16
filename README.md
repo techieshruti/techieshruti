@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Shruti Chandra</h1>
-<h3 align="center">Front-End Developer in the Making | JavaScript Explorer | Passionate Web Creator</h3>
+<h3 align="center">Front-End Developer | JavaScript Explorer | Passionate Web Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Front-End+Developer;Lover+of+Clean+Code+%26+UI;Building+Projects+One+Pixel+at+a+Time!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Front-End+Developer;Building+Projects+One+Pixel+at+a+Time!&center=true&width=500&height=45">
 </p>
 
 ---
@@ -47,7 +47,7 @@ Fetches hilarious jokes from an API and keeps your day lighthearted!
   <a href="https://www.linkedin.com/in/shruti-chandra-656578174/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>
-  <a href="mailto:shruti.yourmail@example.com">
+  <a href="mailto:shrutichandra721@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=white" />
   </a>
 </p>
