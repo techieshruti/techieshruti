@@ -1,47 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Shruti Chandra</h1>
+<h3 align="center">Front-End Developer in the Making | JavaScript Explorer | Passionate Web Creator</h3>
 
-# 👋 Hi there, I'm Shruti Chandra!
-
-🎯 **Front-End Developer** | 💻 **React Enthusiast** | 🌐 **Web Creator**
-
-I'm a passionate developer with a knack for building responsive and interactive web applications. Currently diving deep into React and exploring the realms of AI integration in web projects.
-
----
-
-## 🚀 Projects
-
-- **[AI-Powered Personal Diary](https://github.com/techieshruti/AI-Personal-Diary)**  
-  An intelligent journaling app that leverages AI to provide insights and summaries of daily entries.
-
-- **[Guess The Number](https://techieshruti.github.io/Guess_the_number/)**  
-  A fun and interactive number guessing game built with vanilla JavaScript.
-
-- **[Joke Generator](https://github.com/techieshruti/Joke-Generator)**  
-  Fetches random jokes from an API to lighten up your day.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Front-End+Developer;Lover+of+Clean+Code+%26+UI;Building+Projects+One+Pixel+at+a+Time!&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+### 💻 Projects I'm Proud Of
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+🟢 **[AI-Powered Personal Diary](https://github.com/techieshruti/AI-Personal-Diary)**  
+A smart journaling app that uses AI to help users track thoughts and emotions.
 
----
+🟡 **[Guess The Number](https://techieshruti.github.io/Guess_the_number/)**  
+A fun, interactive guessing game using vanilla JavaScript and DOM manipulation.
 
-## 📈 GitHub Stats
-
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techieshruti&show_icons=true&theme=radical)
+🔵 **[Joke Generator](https://github.com/techieshruti/Joke-Generator)**  
+Fetches hilarious jokes from an API and keeps your day lighthearted!
 
 ---
 
-## 📫 Let's Connect
+### 🛠️ Tools & Technologies I Use
 
-- [LinkedIn](https://www.linkedin.com/in/shruti-chandra-656578174/)
-- [Portfolio](https://techieshruti.github.io/)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techieshruti&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techieshruti&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 📬 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shruti-chandra-656578174/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="mailto:shruti.yourmail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 *Currently building my portfolio, learning daily, and excited for my first opportunity in tech!*  
+</p>
 
 ---
 
