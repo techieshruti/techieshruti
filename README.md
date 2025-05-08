@@ -15,7 +15,7 @@ A smart journaling app that uses AI to help users track thoughts and emotions.
 🟡 **[Guess The Number](https://techieshruti.github.io/Guess_the_number/)**  
 A fun, interactive guessing game using vanilla JavaScript and DOM manipulation.
 
-🔵 **[Joke Generator](https://github.com/techieshruti/Joke-Generator)**  
+🔵 **[Joke Generator](https://techieshruti.github.io/random_Joke_generator/)**  
 Fetches hilarious jokes from an API and keeps your day lighthearted!
 
 ---
