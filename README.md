@@ -9,8 +9,8 @@
 
 ### 💻 Projects I'm Proud Of
 
-🟢 **[AI-Powered Personal Diary](https://github.com/techieshruti/AI-Personal-Diary)**  
-A smart journaling app that uses AI to help users track thoughts and emotions.
+🟢 **[Healthcare_Dashboard](https://techieshruti.github.io/Healthcare_Dashboard/)**  
+A static, clean, and minimal Healthcare Dashboard web page that serves as a simple demonstration of a healthcare admin dashboard layout.
 
 🟡 **[Guess The Number](https://techieshruti.github.io/Guess_the_number/)**  
 A fun, interactive guessing game using vanilla JavaScript and DOM manipulation.
