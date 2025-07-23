@@ -9,8 +9,11 @@
 
 ## 🚀 Featured Projects
 
-✨ [**Healthcare Dashboard**](https://techieshruti.github.io/Healthcare_Dashboard/)  
-A clean and minimal static healthcare admin dashboard — ideal for visualizing patient and admin data.
+✨ [**Quiz App**](https://techieshruti.github.io/Quiz-App-with-Timer/)  
+A fully dynamic and interactive quiz application built using HTML and vanilla JavaScript.
+
+✨ [**Quiz App**](https://techieshruti.github.io/Quiz-App-with-Timer/)  
+A fully dynamic and interactive quiz application built using HTML and vanilla JavaScript.
 
 🎯 [**Guess The Number**](https://techieshruti.github.io/Guess_the_number/)  
 A simple yet engaging JavaScript game where you guess the number and interact with the DOM.
