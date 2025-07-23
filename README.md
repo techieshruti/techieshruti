@@ -12,8 +12,8 @@
 ✨ [**Quiz App**](https://techieshruti.github.io/Quiz-App-with-Timer/)  
 A fully dynamic and interactive quiz application built using HTML and vanilla JavaScript.
 
-✨ [**Quiz App**](https://techieshruti.github.io/Quiz-App-with-Timer/)  
-A fully dynamic and interactive quiz application built using HTML and vanilla JavaScript.
+✨ [**WanderWhirl - Blog Platform**](https://techieshruti.github.io/WanderWhirl_A_Blog_Platform/)  
+WanderWhirl is a personal blogging platform built entirely using HTML, CSS, and Vanilla JavaScript.
 
 🎯 [**Guess The Number**](https://techieshruti.github.io/Guess_the_number/)  
 A simple yet engaging JavaScript game where you guess the number and interact with the DOM.
