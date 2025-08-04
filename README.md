@@ -9,13 +9,13 @@
 
 ## 🚀 Featured Projects
 
-✨ [**Tic-Tac-Toe**](https://techieshruti.github.io/Quiz-App-with-Timer/)  
+❌|⭕ [**Tic-Tac-Toe**]([https://techieshruti.github.io/Quiz-App-with-Timer/](https://techieshruti.github.io/Tic-Tac-Toe/))  
 A fully interactive and visually styled **Tic-Tac-Toe (X & O)** game built using HTML and vanilla JavaScript.
 
-✨ [**Quiz App**](https://techieshruti.github.io/Quiz-App-with-Timer/)  
+🤷‍♀️ [**Quiz App**](https://techieshruti.github.io/Quiz-App-with-Timer/)  
 A fully dynamic and interactive quiz application built using HTML and vanilla JavaScript.
 
-✨ [**WanderWhirl - Blog Platform**](https://techieshruti.github.io/WanderWhirl_A_Blog_Platform/)  
+✍️ [**WanderWhirl - Blog Platform**](https://techieshruti.github.io/WanderWhirl_A_Blog_Platform/)  
 WanderWhirl is a personal blogging platform built entirely using HTML, CSS, and Vanilla JavaScript.
 
 🎯 [**Guess The Number**](https://techieshruti.github.io/Guess_the_number/)  
