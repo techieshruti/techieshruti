@@ -9,6 +9,9 @@
 
 ## 🚀 Featured Projects
 
+✨ [**Tic-Tac-Toe**](https://techieshruti.github.io/Quiz-App-with-Timer/)  
+A fully interactive and visually styled **Tic-Tac-Toe (X & O)** game built using HTML and vanilla JavaScript.
+
 ✨ [**Quiz App**](https://techieshruti.github.io/Quiz-App-with-Timer/)  
 A fully dynamic and interactive quiz application built using HTML and vanilla JavaScript.
 
