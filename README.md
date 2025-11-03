@@ -35,7 +35,8 @@ Fetches random jokes from an API — a light-hearted way to explore async JavaSc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
   <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" height="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+    <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" height="50" alt="Vite"/>
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" height="50" alt="GitHub" />
 </p>
 
 ---
