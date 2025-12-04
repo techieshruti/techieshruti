@@ -1,69 +1,80 @@
 <h1 align="center">Hi there 👋, I'm Shruti Chandra</h1>
-<h3 align="center">💻 Front-End Developer | 🌐 JavaScript Explorer | 🎨 Passionate Web Creator</h3>
+<h3 align="center">Frontend Developer | JavaScript Enthusiast | React Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Front-End+Developer;Building+Projects+One+Pixel+at+a+Time!&center=true&width=500&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Passionate+Web+Creator;JavaScript+%7C+React+Learner;Building+Projects+Every+Day!&center=true&width=500&height=45" />
 </p>
+
+---
+
+## 👩‍💻 About Me
+
+I'm a passionate **Frontend Developer** who loves building clean, interactive, and visually appealing web applications.  
+I enjoy solving problems, learning new tech, and creating projects that improve my skills every single day.
+
+- 🌱 Currently mastering **React & Advanced JavaScript**
+- 💻 Interested in **frontend roles**, internships, and open-source projects
+- 🌍 Recently started contributing to **open source**
+- 🎯 Goal: Become a highly skilled frontend engineer
 
 ---
 
 ## 🚀 Featured Projects
 
-❌|⭕ [**Tic-Tac-Toe**](https://techieshruti.github.io/Tic-Tac-Toe/)
+### 🎮 [Tic-Tac-Toe](https://techieshruti.github.io/Tic-Tac-Toe/)
+A fully interactive Tic-Tac-Toe game built using HTML, CSS, and JS with dynamic win detection and restart logic.
 
-A fully interactive and visually styled **Tic-Tac-Toe (X & O)** game built using HTML and vanilla JavaScript.
+### 📝 [WanderWhirl – Blog Platform](https://techieshruti.github.io/WanderWhirl_A_Blog_Platform/)
+A complete personal blogging platform built using HTML, CSS, and Vanilla JS with create, publish, edit, and delete features using localStorage.
 
-🤷‍♀️ [**Quiz App**](https://techieshruti.github.io/Quiz-App-with-Timer/)  
-A fully dynamic and interactive quiz application built using HTML and vanilla JavaScript.
+### 🧠 [Quiz App with Timer](https://techieshruti.github.io/Quiz-App-with-Timer/)
+Dynamic quiz application including timer, score tracking, and interactive UI.
 
-✍️ [**WanderWhirl - Blog Platform**](https://techieshruti.github.io/WanderWhirl_A_Blog_Platform/)  
-WanderWhirl is a personal blogging platform built entirely using HTML, CSS, and Vanilla JavaScript.
+### 🔢 [Guess The Number](https://techieshruti.github.io/Guess_the_number/)
+A number-guessing game showcasing DOM manipulation and real-time feedback.
 
-🎯 [**Guess The Number**](https://techieshruti.github.io/Guess_the_number/)  
-A simple yet engaging JavaScript game where you guess the number and interact with the DOM.
-
-😂 [**Joke Generator**](https://techieshruti.github.io/random_Joke_generator/)  
-Fetches random jokes from an API — a light-hearted way to explore async JavaScript.
+### 😂 [Random Joke Generator](https://techieshruti.github.io/random_Joke_generator/)
+A fun project using async/await to fetch and display jokes from an API.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
-  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" height="50" alt="React"/>
-    <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" height="50" alt="Vite"/>
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" height="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="50" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techieshruti&show_icons=true&theme=tokyonight" width="48%" alt="Shruti's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techieshruti&layout=compact&theme=tokyonight" width="48%" alt="Shruti's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=techieshruti&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techieshruti&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 📬 Connect with Me
+## 🌍 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shruti-chandra-656578174/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>
   <a href="mailto:shrutichandra721@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  🌱 I’m currently building my portfolio, learning every day, and seeking my first opportunity in tech.<br />
-  ✨ *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+  ✨ *"Great websites aren't built in a day — they're built one line of code at a time."*
 </p>
