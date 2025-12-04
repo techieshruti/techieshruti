@@ -49,16 +49,6 @@ A number-guessing game showcasing DOM manipulation and real-time feedback.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="50" alt="Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techieshruti&show_icons=true&theme=tokyonight&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techieshruti&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
 ---
 
 ## 🌍 Connect with Me
