@@ -49,7 +49,6 @@ A number-guessing game showcasing DOM manipulation and real-time feedback.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="50" alt="Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
 </p>
----
 
 ## 🌍 Connect with Me
 
@@ -57,6 +56,7 @@ A number-guessing game showcasing DOM manipulation and real-time feedback.
   <a href="https://www.linkedin.com/in/shruti-chandra-656578174/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
+  
   <a href="mailto:shrutichandra721@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/240px-Gmail_icon_%282020%29.svg.png" width="50" height="50"/>
   </a>
