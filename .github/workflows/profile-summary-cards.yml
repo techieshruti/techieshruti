@@ -1,0 +1,19 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs once daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate GitHub Summary Cards
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: techieshruti
+          # THEME OPTIONS:
+          # default, github, dracula, monokai, nord_bright, nord_dark,
+          # solarized, solarized_dark, vue, 2077 (this is the neon theme!)
