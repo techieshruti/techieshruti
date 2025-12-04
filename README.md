@@ -47,7 +47,6 @@ A fun project using async/await to fetch and display jokes from an API.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="TailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="50" alt="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
 </p>
 
@@ -56,7 +55,7 @@ A fun project using async/await to fetch and display jokes from an API.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techieshruti&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=techieshruti&show_icons=true&theme=tokyonight&rank_icon=github" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techieshruti&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
@@ -66,10 +65,10 @@ A fun project using async/await to fetch and display jokes from an API.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shruti-chandra-656578174/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shrutichandra721@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
+  <a href="mailto:shrutichandra721@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
