@@ -1,12 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Shruti Chandra</h1>
 <h3 align="center">Frontend Developer | JavaScript Enthusiast | React Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Passionate+Web+Creator;JavaScript+%7C+React+Learner;Building+Projects+Every+Day!&center=true&width=500&height=45" />
-</p>
-
----
-
 ## 👩‍💻 About Me
 
 I'm a passionate **Frontend Developer** who loves building clean, interactive, and visually appealing web applications.  
@@ -62,6 +56,14 @@ A number-guessing game showcasing DOM manipulation and real-time feedback.
   </a>
 </p>
 
+---
+## 📊 GitHub Summary
+
+### GitHub Stats
+[![](https://raw.githubusercontent.com/techieshruti/techieshruti/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/techieshruti)
+
+### Most Used Languages
+[![](https://raw.githubusercontent.com/techieshruti/techieshruti/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/techieshruti)
 ---
 
 <p align="center">
