@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Shruti Chandra</h1>
-<h3 align="center">Frontend Developer | JavaScript Enthusiast | React Learner</h3>
+<h3 align="center">Frontend Developer | JavaScript Enthusiast | React Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Passionate+Web+Creator;JavaScript+%7C+React+Learner;Building+Projects+Every+Day!&center=true&width=500&height=45" />
@@ -30,11 +30,11 @@ A complete personal blogging platform built using HTML, CSS, and Vanilla JS with
 ### 🧠 [Quiz App with Timer](https://techieshruti.github.io/Quiz-App-with-Timer/)
 Dynamic quiz application including timer, score tracking, and interactive UI.
 
-### 🔢 [Guess The Number](https://techieshruti.github.io/Guess_the_number/)
-A number-guessing game showcasing DOM manipulation and real-time feedback.
-
 ### 😂 [Random Joke Generator](https://techieshruti.github.io/random_Joke_generator/)
 A fun project using async/await to fetch and display jokes from an API.
+
+### 🔢 [Guess The Number](https://techieshruti.github.io/Guess_the_number/)
+A number-guessing game showcasing DOM manipulation and real-time feedback.
 
 ---
 
@@ -65,10 +65,10 @@ A fun project using async/await to fetch and display jokes from an API.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shruti-chandra-656578174/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
   <a href="mailto:shrutichandra721@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/240px-Gmail_icon_%282020%29.svg.png" width="50" height="50"/>
   </a>
 </p>
 
