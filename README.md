@@ -57,8 +57,6 @@ A number-guessing game showcasing DOM manipulation and real-time feedback.
 </p>
 
 ---
-## 📊 GitHub Summary
-
 ### GitHub Stats
 [![](https://raw.githubusercontent.com/techieshruti/techieshruti/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/techieshruti)
 
