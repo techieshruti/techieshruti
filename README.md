@@ -15,7 +15,7 @@ I enjoy solving problems, learning new tech, and creating projects that improve 
 
 ## 🚀 Featured Projects
 
-### [User Dashboard](https://user-dashboard-detailed.netlify.app/)
+### 📝 [User Dashboard](https://user-dashboard-detailed.netlify.app/)
 A responsive user dashboard built with React that fetches and displays user data with search, routing, and dynamic user management.
 
 ### 🎮 [Tic-Tac-Toe](https://techieshruti.github.io/Tic-Tac-Toe/)
