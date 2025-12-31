@@ -18,7 +18,7 @@ I enjoy solving problems, learning new tech, and creating projects that improve 
 ### 📝 [User Dashboard](https://user-dashboard-detailed.netlify.app/)
 A responsive user dashboard built with React that fetches and displays user data with search, routing, and dynamic user management.
 
-### 🎮 [Tic-Tac-Toe](https://techieshruti.github.io/Tic-Tac-Toe/)
+### 🎮 [Tic-Tac-Toe](https://shruti-tic-tac-toe.netlify.app/)
 A fully interactive Tic-Tac-Toe game built using HTML, CSS, and JS with dynamic win detection and restart logic.
 
 ### 📝 [WanderWhirl – Blog Platform](https://techieshruti.github.io/WanderWhirl_A_Blog_Platform/)
