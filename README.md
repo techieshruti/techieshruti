@@ -24,7 +24,7 @@ A fully interactive Tic-Tac-Toe game built using HTML, CSS, and JS with dynamic 
 ### 📝 [WanderWhirl – Blog Platform](https://techieshruti.github.io/WanderWhirl_A_Blog_Platform/)
 A complete personal blogging platform built using HTML, CSS, and Vanilla JS with create, publish, edit, and delete features using localStorage.
 
-### 🧠 [Quiz App with Timer](https://techieshruti.github.io/Quiz-App-with-Timer/)
+### 🧠 [Quiz App with Timer](https://shruti-quiz-app-with-timer.netlify.app/)
 Dynamic quiz application including timer, score tracking, and interactive UI.
 
 ### 😂 [Random Joke Generator](https://techieshruti.github.io/random_Joke_generator/)
