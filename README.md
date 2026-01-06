@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Shruti Chandra</h1>
+<h1 align="center">Hi there, I'm Shruti Chandra</h1>
 <h3 align="center">Frontend Developer | JavaScript Enthusiast | React Developer</h3>
 
 ## 👩‍💻 About Me
