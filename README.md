@@ -21,11 +21,11 @@ A responsive user dashboard built with React that fetches and displays user data
 ### 🎮 [Tic-Tac-Toe](https://shruti-tic-tac-toe.netlify.app/)
 A fully interactive Tic-Tac-Toe game built using HTML, CSS, and JS with dynamic win detection and restart logic.
 
-### 📝 [WanderWhirl – Blog Platform](https://shruti-wanderwhirl-blogging-plateform.netlify.app/)
-A complete personal blogging platform built using HTML, CSS, and Vanilla JS with create, publish, edit, and delete features using localStorage.
-
 ### 🧠 [Quiz App with Timer](https://shruti-quiz-app-with-timer.netlify.app/)
 Dynamic quiz application including timer, score tracking, and interactive UI.
+
+### 📝 [WanderWhirl – Blog Platform](https://shruti-wanderwhirl-blogging-plateform.netlify.app/)
+A complete personal blogging platform built using HTML, CSS, and Vanilla JS with create, publish, edit, and delete features using localStorage.
 
 ### 😂 [Random Joke Generator](https://techieshruti.github.io/random_Joke_generator/)
 A fun project using async/await to fetch and display jokes from an API.
@@ -58,14 +58,6 @@ A number-guessing game showcasing DOM manipulation and real-time feedback.
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/240px-Gmail_icon_%282020%29.svg.png" width="50" height="50"/>
   </a>
 </p>
-
----
-### GitHub Stats
-[![](https://raw.githubusercontent.com/techieshruti/techieshruti/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/techieshruti)
-
-### Most Used Languages
-[![](https://raw.githubusercontent.com/techieshruti/techieshruti/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/techieshruti)
----
 
 <p align="center">
   ✨ *"Great websites aren't built in a day — they're built one line of code at a time."*
