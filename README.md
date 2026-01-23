@@ -28,7 +28,7 @@ Dynamic quiz application including timer, score tracking, and interactive UI.
 A complete personal blogging platform built using HTML, CSS, and Vanilla JS with create, publish, edit, and delete features using localStorage.
 
 ### 😂 [Random Joke Generator](https://techieshruti.github.io/random_Joke_generator/)
-A fun project using async/await to fetch and display jokes from an API.
+A fun project using async/await to fetch and display jokes from an API..
 
 ### 🔢 [Guess The Number](https://techieshruti.github.io/Guess_the_number/)
 A number-guessing game showcasing DOM manipulation and real-time feedback.
