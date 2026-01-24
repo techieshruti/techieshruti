@@ -8,7 +8,7 @@ I enjoy solving problems, learning new tech, and creating projects that improve 
 
 - 🌱 Currently mastering **React & Advanced JavaScript**
 - 💻 Interested in **frontend roles**, internships, and open-source projects
-- 🌍 Recently started contributing to **open source**.
+- 🌍 Recently started contributing to **open source**
 - 🎯 Goal: Become a highly skilled frontend engineer
 
 ---
