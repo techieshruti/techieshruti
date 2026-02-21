@@ -22,7 +22,7 @@ A responsive user dashboard built with React that fetches and displays user data
 A fully interactive Tic-Tac-Toe game built using HTML, CSS, and JS with dynamic win detection and restart logic.
 
 ### 🧠 [Quiz App with Timer](https://shruti-quiz-app-with-timer.netlify.app/)
-Dynamic quiz application including timer, score tracking, and interactive UI.
+Dynamic quiz application including timer, score tracking, and interactive UI..
 
 ### 📝 [WanderWhirl – Blog Platform](https://shruti-wanderwhirl-blogging-plateform.netlify.app/)
 A complete personal blogging platform built using HTML, CSS, and Vanilla JS with create, publish, edit, and delete features using localStorage.
