@@ -15,6 +15,9 @@ I enjoy solving problems, learning new tech, and creating projects that improve 
 
 ## 🚀 Featured Projects
 
+### 📝 [AI Health Companion](https://health-companion-ai-two.vercel.app/)
+Upload your blood test report and receive AI-powered explanations, health insights, lifestyle recommendations, and an easy-to-understand health dashboard.
+
 ### 📝 [User Dashboard](https://user-dashboard-detailed.netlify.app/)
 A responsive user dashboard built with React that fetches and displays user data with search, routing, and dynamic user management.
 
@@ -26,12 +29,6 @@ Dynamic quiz application including timer, score tracking, and interactive UI.
 
 ### 📝 [WanderWhirl – Blog Platform](https://shruti-wanderwhirl-blogging-plateform.netlify.app/)
 A complete personal blogging platform built using HTML, CSS, and Vanilla JS with create, publish, edit, and delete features using localStorage.
-
-### 😂 [Random Joke Generator](https://techieshruti.github.io/random_Joke_generator/)
-A fun project using async/await to fetch and display jokes from an API.
-
-### 🔢 [Guess The Number](https://techieshruti.github.io/Guess_the_number/)
-A number-guessing game showcasing DOM manipulation and real-time feedback.
 
 ---
 
