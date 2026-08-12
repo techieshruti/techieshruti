@@ -7,6 +7,7 @@ I'm a Frontend Developer with hands-on experience building responsive and user-f
 
 I have professional experience working on website migration projects, responsive UI development, WordPress, Next.js, and API-driven frontend content. I enjoy solving UI problems, learning new technologies, and turning designs and existing production interfaces into responsive web experiences.
 
+
 ## 🛠️ Technical Skills
 
 | Category | Skills |
@@ -17,7 +18,7 @@ I have professional experience working on website migration projects, responsive
 | **API & Development** | Fetch API, Postman, JSON |
 | **Design** | Figma |
 
----
+
 
 ## 🚀 Featured Projects
 
