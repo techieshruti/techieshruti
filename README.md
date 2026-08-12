@@ -1,15 +1,21 @@
 <h1 align="center">Hi there, I'm Shruti Chandra</h1>
-<h3 align="center">Frontend Developer | JavaScript Enthusiast | React Developer</h3>
+<h3 align="center">Frontend Developer | JavaScript | React Js</h3>
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Frontend Developer** who loves building clean, interactive, and visually appealing web applications.  
-I enjoy solving problems, learning new tech, and creating projects that improve my skills every single day.
+I'm a Frontend Developer with hands-on experience building responsive and user-friendly web interfaces using JavaScript, React.js, HTML, CSS/SCSS, and Tailwind CSS.
 
-- 🌱 Currently mastering **React & Advanced JavaScript**
-- 💻 Interested in **frontend roles**, internships, and open-source projects
-- 🌍 Recently started contributing to **open source**
-- 🎯 Goal: Become a highly skilled frontend engineer
+I have professional experience working on website migration projects, responsive UI development, WordPress, Next.js, and API-driven frontend content. I enjoy solving UI problems, learning new technologies, and turning designs and existing production interfaces into responsive web experiences.
+
+## 🛠️ Technical Skills
+
+| Category | Skills |
+|---|---|
+| **Frontend** | HTML5, CSS3, SCSS, JavaScript (ES6+), React.js, Tailwind CSS, Bootstrap, Responsive Web Design |
+| **Frameworks & Platforms** | Next.js, WordPress, Sitecore (Exposure) |
+| **Tools & Version Control** | Git, GitHub, Vite, npm, VS Code, Azure DevOps |
+| **API & Development** | Fetch API, Postman, JSON |
+| **Design** | Figma |
 
 ---
 
