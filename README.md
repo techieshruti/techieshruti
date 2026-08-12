@@ -19,6 +19,8 @@ I have professional experience working on website migration projects, responsive
 | **Design** | Figma |
 
 
+---
+
 
 ## 🚀 Featured Projects
 
